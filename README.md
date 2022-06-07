@@ -1,4 +1,4 @@
-Projeto: Sincronizar Zero Server Card Bank 
+Projeto: Sincronizar Zero Server Card Bank
 
 https://sites.google.com/view/synchronizeservidorzero/
 
