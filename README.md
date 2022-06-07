@@ -1,13 +1,16 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+Projeto: Sincronizar Zero Server Card Bank
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
+https://sites.google.com/view/synchronizeservidorzero/
 
-Oh! I haven't introduced myself...
+Projeto em Andamento 
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+https://gledsonbastos.github.io/github-pages-with-jekyll/
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+Download Aplicativo Zero Server Card Bank : https://www.mediafire.com/file/ngukw8z0iv9o3oy/Bank_Zero_Server_Card.apk/file
 
-I'll meet you over there, can't wait to get started!
+Zero Server Card Bank Sincronizar 
 
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+O futuro está aqui a seu alcance
+Se necessário contribuam com 2 duas horas diário para manter a sua cidade em funcionamento
+Solução de  problema 
+-Geração de 700$ Dollar por mês
